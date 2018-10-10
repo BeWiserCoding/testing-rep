@@ -1,2 +1,2 @@
 # testing-rep
-This repository is for testing purposes only.
+This repository is for testing purpose only.
